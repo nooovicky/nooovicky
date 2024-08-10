@@ -8,4 +8,10 @@
 
 <h3 align="center">I am freshman in college, studying to become a software engineer in Anáhuac Mayab University, based in Mérida, Yucatán.</h3>
 
+<div align="center">
+
+🔭 Im currently working on **derivative problem solver**
+
+🌱 Im currently learning **C++, C#, Rust and Java**
+
 
