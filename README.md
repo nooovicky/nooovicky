@@ -6,7 +6,7 @@
   </picture>
 </h1>
 
-<h3 align="center">I am freshman in college, studying to become a software engineer in Anáhuac Mayab University, based in Mérida, Yucatán.</h3>
+<h3 align="center">I am a freshman in college, studying to become a software engineer in Anáhuac Mayab University, based in Mérida, Yucatán.</h3>
 
 <div align="center">
 
