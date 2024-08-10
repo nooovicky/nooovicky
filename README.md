@@ -19,5 +19,9 @@
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a>
 
+<h2 align="center">⚒Languages-Frameworks-Tools⚒</h2>
 
+<div align="center">
+  <a href=<https://skillicons.dev">
+    <img src=https://skillicons.dev/icons?i=,python,cs,cpp,java,ruby,rust,github,gmail,discord,stackoverflow,vscode,devto>
 
