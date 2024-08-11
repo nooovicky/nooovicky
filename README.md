@@ -47,6 +47,29 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&layout=compact&title_color=FB8C00&bg_color=151515&text_color=FEFEFE&locale=en">
 </div>
 
-<h2 align="center"> ✍️ Additional skills and information ✍️ </h2>
-<img width=100 src="https://github.com/user-attachments/assets/e0c85f9d-d72b-4335-8b4f-f975d64e8d94">
+<h2 align="center"> ✍️ Additional skills and personal information ✍️ </h2>
+
+
+<h3 align="left">   I am certified in level B2 English from Cambridge University. </h3>
+<div align="center">
+  <img width=150 src="https://github.com/user-attachments/assets/e0c85f9d-d72b-4335-8b4f-f975d64e8d94"> 
+</div>
+
+<hr></hr>
+
+<h3 align=left>I have dual citizenship. [MEX-USA] </h3>
+<div align="center">
+  <img width=100 src="https://github.com/user-attachments/assets/e1512d34-ea0f-471f-953c-8bea5c2f7a4e">  <img width=100 src="https://github.com/user-attachments/assets/b1e4cc21-bd00-4c09-b3a4-787dc5bfe3b3">
+</div>
+
+<hr></hr>
+
+<h3 align="left"> Kngowledge and hands-on experience in building PC's. </h3>
+<div align="center">  <img width=150 src="https://github.com/user-attachments/assets/35695853-1432-462a-8fd5-cafbeb2c8e00">
+</div>
+
+
+
+
+
 
