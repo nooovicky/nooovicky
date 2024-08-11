@@ -1,5 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=page.id=nooovicky.nooovicky" alt="visitor badge"/>
 
+<div align ="left">
+  <a href="https://www.buymeacoffee.com/nooovicky" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+  </a>
+</div>
+
+
 <h1 align="center">
   <picture align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2500&pause=1000&color=75B2FF&width=435&center=true&lines=Hi+there!+%F0%9F%91%8B;I'm+Vicky+Can+%3A);Welcome+to+my+profile!" alt="Typing SVG" />
