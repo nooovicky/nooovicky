@@ -6,6 +6,8 @@
   </picture>
 </h1>
 
+
+
 <h3 align="center">I am a freshman in college, studying to become a software engineer in Anáhuac Mayab University, based in Mérida, Yucatán.</h3>
 
 <div align="center">
@@ -14,10 +16,12 @@
 
 🌱 Im currently learning **C++, C#, Rust and Java**
 
+
 <div align="center">
   <a href="mailto:vicanlope04@gmail.com">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a>
+
 
 <h2 align="center">⚒Languages-Frameworks-Tools⚒</h2>
 
@@ -29,5 +33,11 @@
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=nooovicky&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  
- 
+</div>
+</br>
+
+<div align="left">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nooovicky&show_icons=true&theme=merko" />
+</div>
+
+
