@@ -47,4 +47,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&layout=compact&title_color=FB8C00&bg_color=151515&text_color=FEFEFE&locale=en">
 </div>
 
+<h2 align="center"> ✍️ Additional skills and information ✍️ </h2>
+<img width=100 src="https://github.com/user-attachments/assets/e0c85f9d-d72b-4335-8b4f-f975d64e8d94">
 
