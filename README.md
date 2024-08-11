@@ -38,6 +38,7 @@
 
 <div align="left">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nooovicky&show_icons=true&theme=merko" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&layout=compact&title_color=FB8C00&bg_color=151515&text_color=FEFEFE&locale=en">
 </div>
 
 
