@@ -43,9 +43,9 @@
 </br>
 
 <div align="left">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nooovicky&layout=compact&title_color=c1031f&bg_color=000000&text_color=FEFEFE&locale=en" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&layout=compact&title_color=c1031f&bg_color=000000&text_color=FEFEFE&locale=en">
-</div>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nooovicky&layout=compact&title_color=fa9a0f&bg_color=000000&text_color=fbfbfb&locale=en" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&layout=compact&title_color=fa9a0f&bg_color=000000&text_color=000000&locale=en">
+</div
 
 <h2 align="center"> ✍️ Additional skills and personal information ✍️ </h2>
 
