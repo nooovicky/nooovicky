@@ -44,11 +44,15 @@
 
 <div align="left">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nooovicky&layout=compact&title_color=fa9a0f&bg_color=000000&text_color=fbfbfb&locale=en" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&layout=compact&title_color=fa9a0f&bg_color=000000&text_color=000000&locale=en">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooovicky&theme=highcontrast&lan=en&langs_count=7&layout=compact">
 </div
 
-<h2 align="center"> ✍️ Additional skills and personal information ✍️ </h2>
 
+
+<div align="center">
+  
+<h2 align="center"> ✍️ Additional skills and personal information ✍️ </h2>
+</div>
 
 <h3 align="left">   I am certified in level B2 English from Cambridge University. </h3>
 <div align="center">
