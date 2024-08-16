@@ -38,7 +38,7 @@
 <h2 align="center"> ⚡️Stats⚡️ </h2>
 <br>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=nooovicky&theme=highcontrast" />
+  <img width=390 src="https://streak-stats.demolab.com?user=nooovicky&theme=highcontrast&border_radius=5)" />
 </div>
 </br>
 
